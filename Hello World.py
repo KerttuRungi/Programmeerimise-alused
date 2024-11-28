@@ -1,1 +1,0 @@
-print ("Hello World","Soovib Kerttu",sep="\n")
